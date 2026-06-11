@@ -53,7 +53,7 @@ export default function Home() {
           <div className="hero__portrait">
             <div className="portrait__frame">
               <div className="portrait__img">
-                <img src='images/1729248813709.jpg'/>
+                <img alt='profile' src='images/1729248813709.jpg'/>
               </div>
               <div className="portrait__deco portrait__deco--1" />
               <div className="portrait__deco portrait__deco--2" />
